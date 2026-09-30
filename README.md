@@ -11,7 +11,7 @@ The Phase-1 qualifying project is an existing project developed before Build Nex
 ## Project
 
 - **Project name:** Chakravyuh — Urban Flood Intelligence & Safe Routing
-- **Team:** Orion Labs
+- **Team:** Orion
 - **Team lead:** Abhimanyu Gupta
 - **Phase 1 qualifying project:** [Drowned-NCR-Flood-Intelligence](https://github.com/abhimanyugupta/Drowned-NCR-Flood-Intelligence)
 
@@ -48,4 +48,4 @@ The final Phase-2 scope will be determined only after the official finalist mate
 The Phase-1 qualifying project predates Build Next 2026. Phase-2 work, if undertaken, will be created during the official challenge period and will follow the organizer's then-current rules.
 
 ---
-Built by **Orion Labs / Abhimanyu Gupta**
+Built by **Orion / Abhimanyu Gupta**
